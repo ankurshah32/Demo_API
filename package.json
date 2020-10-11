@@ -1,0 +1,26 @@
+{
+  "name": "sootchyapidemo",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurshah32/sootchyApiDemo.git"
+  },
+  "keywords": [
+    "Sooctchy"
+  ],
+  "author": "Ankur Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankurshah32/sootchyApiDemo/issues"
+  },
+  "homepage": "https://github.com/ankurshah32/sootchyApiDemo#readme"
+}
